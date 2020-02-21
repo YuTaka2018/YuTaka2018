@@ -1,5 +1,3 @@
-package Javaの基礎;
-
 public class task1 {
 
 	public static void main(String[] args) {
