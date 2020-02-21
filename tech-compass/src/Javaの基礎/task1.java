@@ -1,3 +1,4 @@
+package Javaの基礎;
 
 public class task1 {
 
