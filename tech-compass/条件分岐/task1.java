@@ -9,7 +9,7 @@ public class task1 {
 		int num = scan.nextInt();
 
 		if(num > 9) System.out.println("値: " + num);
-		if(num < 9) System.out.println("値: " + 10);
+		if(num <= 9) System.out.println("値: " + 10);
 
 		scan.close();
 	}
